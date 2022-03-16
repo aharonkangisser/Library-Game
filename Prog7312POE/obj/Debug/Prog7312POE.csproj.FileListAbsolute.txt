@@ -1,0 +1,30 @@
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\bin\Debug\Prog7312POE.exe.config
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\bin\Debug\Prog7312POE.exe
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\bin\Debug\Prog7312POE.pdb
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.csprojAssemblyReference.cache
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.Home.resources
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.Properties.Resources.resources
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.ReplacingBooksForm.resources
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.csproj.GenerateResource.cache
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.csproj.CoreCompileInputs.cache
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.exe
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.pdb
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.IdentifyingAreasForm.resources
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.LoginForm.resources
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.RegistrationForm.resources
+C:\Users\Alexk\source\repos\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.FindingCallNumbersForm.resources
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\bin\Debug\Prog7312POE.exe.config
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\bin\Debug\Prog7312POE.exe
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\bin\Debug\Prog7312POE.pdb
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.csprojAssemblyReference.cache
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.FindingCallNumbersForm.resources
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.Home.resources
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.IdentifyingAreasForm.resources
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.LoginForm.resources
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.Properties.Resources.resources
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.RegistrationForm.resources
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.ReplacingBooksForm.resources
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.csproj.GenerateResource.cache
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.csproj.CoreCompileInputs.cache
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.exe
+D:\.THIRD YEAR\SECOND SEMESTER\PROG7312\POE\POE\Prog7312POE\Prog7312POE\obj\Debug\Prog7312POE.pdb
